@@ -1,4 +1,4 @@
-echo ----- InstallingPython
+echo ----- Installing Python
 sudo apt install python3-pip
 echo ----- Installing Java JDK 11
 sudo apt install openjdk-11-jre-headless
