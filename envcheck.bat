@@ -6,7 +6,7 @@ node --version
 
 echo ------- Project managers
 mvn --version
-gradle--version
+gradle --version
 npm --version
 
 echo ------- Git
